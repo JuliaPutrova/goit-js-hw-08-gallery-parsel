@@ -1,0 +1,24 @@
+{
+  "name": "hw-8",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "dev": "parcel index.html",
+    "build": "parcel build index.html"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JuliaPutrova/goit-js-hw-08-gallery-parsel.git"
+  },
+  "author": "JuliaPutrova",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/JuliaPutrova/goit-js-hw-08-gallery-parsel/issues"
+  },
+  "homepage": "https://github.com/JuliaPutrova/goit-js-hw-08-gallery-parsel#readme",
+  "dependencies": {
+    "inde.js": "^1.0.0",
+    "index.js": "0.0.3"
+  }
+}
