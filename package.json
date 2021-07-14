@@ -21,9 +21,6 @@
   "homepage": "https://JuliaPutrova.github.io/goit-js-hw-08-gallery-parsel",
   "dependencies": {
     "gh-pages": "^3.2.3",
-    "inde.js": "^1.0.0",
-    "index": "^0.4.0",
-    "index.js": "0.0.3",
     "parcel-plugin-nuke-dist": "^1.0.1"
   },
   "devDependencies": {

@@ -64,7 +64,7 @@
 //   },
 // ];
 
-import './css/styles.css';
+// import './css/styles.css';
 
 import { galleryItems } from "./src/index";
 
